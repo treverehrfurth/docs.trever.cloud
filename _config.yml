@@ -118,7 +118,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: treverehrfurth/treverehrfurth.github.io # <gh-username>/<repo>
-    repo_id: #817911001
+    repo_id: 817911001
     category: Comments
     category_id: 
     mapping: pathname # optional, default to 'pathname'
