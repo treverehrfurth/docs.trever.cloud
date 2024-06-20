@@ -120,7 +120,7 @@ comments:
     repo: treverehrfurth/treverehrfurth.github.io # <gh-username>/<repo>
     repo_id: 817911001
     category: Comments
-    category_id: 
+    category_id: DIC_kwDODy-1C84CSN7z
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
