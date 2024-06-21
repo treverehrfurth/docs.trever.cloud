@@ -28,8 +28,8 @@ url: "https://docs.trever.cloud"
 github:
   username: treverehrfurth # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+LinkedIn:
+  username: tehrfurth # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/treverehrfurth # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/treverehrfurth
+    - https://www.linkedin.com/in/tehrfurth
 
 # Site Verification Settings
 webmaster_verifications:
