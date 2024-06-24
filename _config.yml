@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Trever Ehrfurth # the main title
 
-tagline: Data/Cloud/Platform Engineer | Homelab | Open Source # it will display as the sub-title
+tagline: Data Engineer | Back-End Dev | Homelab | DevSecOps | Open Source # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
