@@ -14,7 +14,9 @@ tags: [kubernetes, nfs, persistent storage]     # TAG names should always be low
     sudo apt install -y nfs-common
     ```
 
-2. An NFS share setup from something like TrueNAS, Synology, etc.
+2. Install [NFS CSI](https://github.com/kubernetes-csi/csi-driver-nfs) driver
+
+3. An NFS share setup from something like TrueNAS, Synology, etc.
 
 
 # Setup persistent volume
