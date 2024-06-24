@@ -6,8 +6,6 @@ categories: [Cheat Sheets]
 tags: [terraform, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 
-# Terraform Cheat-Sheet
-
 ## Format and Validate
 
 | Command | Description |

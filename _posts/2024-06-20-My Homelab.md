@@ -6,11 +6,9 @@ categories: [Homelab, Overview]
 tags: [homelab]     # TAG names should always be lowercase
 ---
 
-# My Homelab
-
 A lot of years, money and sleepless nights later, this homelab has gone through two or three major iterations
 
-Whats in the Rack:
+## Whats in the Rack:
 1. UDM-PRO - networking and security cams for inside and outside my house.
 2. USW-16-POE
 3. TP-Link 24 port gigabyte switch
@@ -35,6 +33,7 @@ Server 5: AMD Ryzen 5 3600
 
 As you can see from my Homepage dashboard, I run a bunch of services across multiple VM's with high availability. If I ever take any server down, the VM's are spun up on the remaining nodes in the cluster. Here are some of my services starting with the coolest.
 
+## Servies 
 Clusterplex: I took plex onestep further and deployed clusterplex by pabloromeo on github. This amazing developer created add-on is a way to distribute transcode jobs from one Plex server across multiple VM's or workers. This has allowed me to scale out plex without ever taking up too much processing on any given server/VM. It is meant for Kubernetes and docker swarm but can be configured to work in normal docker containers.
 Also using Tautulli for better metrics and observability of Plex
 Wazuh: A wonderful SIEM solution I have deployed on all servers and computers on the network with active response rules, alerts to discord and vulnerability monitoring. 

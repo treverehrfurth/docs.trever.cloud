@@ -6,8 +6,6 @@ categories: [Cheat Sheets]
 tags: [docker, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 
-# Docker
-
 ## Running Containers
 
 | COMMAND | DESCRIPTION |

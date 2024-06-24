@@ -6,8 +6,6 @@ categories: [Cheat Sheets]
 tags: [helm, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 
-# Helm
-
 ## Repository Management
 
 | Command | Description |

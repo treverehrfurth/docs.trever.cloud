@@ -6,8 +6,6 @@ categories: [Cheat Sheets]
 tags: [kubectl, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 
-# Kubectl Cheat-Sheet
-
 ## Contexts and Configuration
 
 | Command | Description |
