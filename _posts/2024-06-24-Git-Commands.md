@@ -1,8 +1,8 @@
 ---
-title: Git Commands - Cheat Sheet
+title: Git Cheat Sheet
 description: Helpful Git commands to reference as a cheat sheet
 date: 2024-06-24 12:25:00 -0500
-categories: [Cheat Sheets, Git]
+categories: [Cheat Sheets]
 tags: [git, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 

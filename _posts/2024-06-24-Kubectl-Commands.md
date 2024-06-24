@@ -1,8 +1,8 @@
 ---
-title: Kubectl Commands - Cheat Sheet
+title: Kubectl Cheat Sheet
 description: Helpful Kubectl commands to reference as a cheat sheet
 date: 2024-06-24 12:51:00 -0500
-categories: [Cheat Sheets, Kubectl]
+categories: [Cheat Sheets]
 tags: [kubectl, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 

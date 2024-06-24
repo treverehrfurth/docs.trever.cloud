@@ -1,8 +1,8 @@
 ---
-title: Docker Commands - Cheat Sheet
+title: Docker Cheat Sheet
 description: Helpful Docker commands to reference as a cheat sheet
 date: 2024-06-24 12:50:00 -0500
-categories: [Cheat Sheets, Docker]
+categories: [Cheat Sheets]
 tags: [docker, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 

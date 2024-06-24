@@ -1,8 +1,8 @@
 ---
-title: Helm Commands - Cheat Sheet
+title: Helm Cheat Sheet
 description: Helpful Helm commands to reference as a cheat sheet
 date: 2024-06-24 12:51:00 -0500
-categories: [Cheat Sheets, Helm]
+categories: [Cheat Sheets]
 tags: [helm, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 

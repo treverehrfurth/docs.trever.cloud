@@ -1,8 +1,8 @@
 ---
-title: Terraform Commands - Cheat Sheet
+title: Terraform Cheat Sheet
 description: Helpful Terraform commands to reference as a cheat sheet
 date: 2024-06-24 12:51:00 -0500
-categories: [Cheat Sheets, Terraform]
+categories: [Cheat Sheets]
 tags: [terraform, cheat sheet, commands]     # TAG names should always be lowercase
 ---
 
