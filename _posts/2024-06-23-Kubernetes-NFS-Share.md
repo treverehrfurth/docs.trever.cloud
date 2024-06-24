@@ -4,12 +4,9 @@ description: Documentation on how to setup an NFS mount for persistent storage i
 date: 2024-06-23 19:13:00 -0500
 categories: [Kubernetes, NFS]
 tags: [kubernetes, nfs, persistent storage]     # TAG names should always be lowercase
-toc: true
 ---
 
-
-
-# Requirements
+## Requirements
 1. Install nfs-common on all kubernetes nodes
     ```
     sudo apt install -y nfs-common
@@ -20,7 +17,7 @@ toc: true
 3. An NFS share setup from something like TrueNAS, Synology, etc.
 
 
-# Setup persistent volume
+## Setup persistent volume
 1. Create a yaml file called `nfs-pv.yaml` with the following:
     ```yaml
     apiVersion: v1
@@ -43,7 +40,7 @@ toc: true
     kubectl apply -f nfs-pv.yaml
     ```
 
-# Setup persistent volume claim
+## Setup persistent volume claim
 1. Create a yaml file called `nfs-pvc.yaml` with the following:
     ```yaml
     apiVersion: v1
@@ -64,7 +61,7 @@ toc: true
     kubectl apply -f nfs-pvc.yaml
     ```
 
-# Test with NGINX web server
+## Test with NGINX web server
 1. Create a yaml file called `nfs-web.yaml` with the following:
     ```yaml
     apiVersion: apps/v1
