@@ -2,7 +2,7 @@
 title: My Homelab
 description: An overview of my current homelab including hardware, software, and networking.
 date: 2024-06-20 12:00:00 -0500
-categories: [Homelab]
+categories: [Homelab, Overview]
 tags: [homelab]     # TAG names should always be lowercase
 ---
 
