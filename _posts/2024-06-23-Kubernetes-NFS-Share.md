@@ -4,6 +4,7 @@ description: Documentation on how to setup an NFS mount for persistent storage i
 date: 2024-06-23 19:13:00 -0500
 categories: [Kubernetes, NFS]
 tags: [kubernetes, nfs, persistent storage]     # TAG names should always be lowercase
+toc: true
 ---
 
 
