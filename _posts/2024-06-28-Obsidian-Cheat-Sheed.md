@@ -22,15 +22,6 @@ For Code Blocks: Wrap text in triple backticks `(```)`.
 For Embeds: Use `![[note name]]` to embed another note in your current note.
 
 ---
-
-<img src="https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1" alt="Image Description" style="width: 100%;">
-
-
-Word Formatting & Coding Blocks            |  Links, Quotes & Tables
-:-------------------------:|:-------------------------:
-<img src="https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1" alt="Image Description">  |  <img src="https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1" alt="Image Description">
-
----
 # Markdown Cheat Sheet 💻
 <em><strong>Quick Overview ✨</em></strong> 
   
