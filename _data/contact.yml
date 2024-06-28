@@ -15,9 +15,9 @@
   icon: 'fab fa-youtube'
   url: 'https://www.youtube.com/@Pray4Tre'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
