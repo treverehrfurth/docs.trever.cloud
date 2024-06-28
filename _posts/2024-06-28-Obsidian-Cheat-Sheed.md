@@ -22,8 +22,8 @@ For Code Blocks: Wrap text in triple backticks `(```)`.
 For Embeds: Use `![[note name]]` to embed another note in your current note.
 
 ---
-# Markdown Cheat Sheet 💻
-<em><strong>Quick Overview ✨</em></strong> 
+# Markdown Cheat Sheet
+<em><strong>Quick Overview</em></strong> 
   
   ``` 
 # Heading 1
@@ -54,7 +54,7 @@ Table Cell A  |  Table Cell B
 ----          |          ----
 
 ```
-<em><strong>Detailed Cheat Sheet 🔥</em></strong>
+<em><strong>Detailed Cheat Sheet</em></strong>
 
  # Heading 1
  
@@ -141,7 +141,7 @@ Table Cell A  |  Table Cell B
 ---
 # Shortcuts ⌨️
 
-### General Shortcuts 🕹️
+### General Shortcuts
 Shortcut Key		|		Functions
 :-----------------:|-----------------:
 Ctrl + S|Editor: Saves the file
@@ -164,7 +164,7 @@ Win + Shift + Tab |  Next Window
 
 
 
-### Editing Shortcuts 🕹️
+### Editing Shortcuts
 Shortcut Key		|		Functions
 :-----------------:|-----------------:
 Ctrl + B | Bold Selected Text
